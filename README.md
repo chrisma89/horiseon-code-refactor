@@ -14,6 +14,7 @@ The resources used to refactor includes
 - https://www.w3schools.com/html/default.asp
 - https://accessibility.huit.harvard.edu/describe-content-images
 - https://www.freecodecamp.org/news/        how-to-indent-in-html-and-why-it-is-important/
+- https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Organizing
 
 ### Installation
 

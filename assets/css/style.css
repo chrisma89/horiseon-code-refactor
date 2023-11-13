@@ -1,3 +1,5 @@
+
+/*The class selectors are at the top of the page, followed by the element selectors*/ 
 * {
     box-sizing: border-box;
     padding: 0;
@@ -17,7 +19,7 @@
 }
 
 .list {  
-    /* added a class selector*/
+    /* added a class selector ('list' in the html)*/
     padding-top:15px;
     margin-right:20px;
     float:right;
@@ -79,7 +81,9 @@
     color: #ffffff;
 }
 
-.benefit-lead img, .benefit-brand img, .benefit-cost img {
+.benefit-lead img,
+.benefit-brand img, 
+.benefit-cost img {
         /* Grouped img class selectors together*/
     display: block;
     margin: 10px auto;
