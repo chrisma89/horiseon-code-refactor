@@ -1,6 +1,6 @@
 # Horiseon-code-refactor
 
-## Descritption
+## Description
 
 The horiseon webpage has been code refactored to meet the industry standards for webpage accessibility. The starter code was provided and it has been used to study how each element, in both the html and css file, works to display the intended webpage.
 
