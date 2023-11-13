@@ -8,29 +8,34 @@ body {
     background-color: #d9dcd6;
 }
 
-.header {
+.header  {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
 
-.header h1 {
+.seo {
+    /* .header h1 removed*/
+    color: #d9dcd6;
+}
+h1 {
     display: inline-block;
     font-size: 48px;
 }
 
-.header h1 .seo {
-    color: #d9dcd6;
-}
-/* Changed div tag to section tag to reflect changes made in index.html*/
-.header section {  
-    padding-top: 15px;
-    margin-right: 20px;
-    float: right;
+.list {  
+    /* Changed div tag to section tag to reflect changes made in index.html and grouped the .header section */
+    padding-top:15px;
+    margin-right:20px;
+    float:right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
+    display: inline-block;
+    margin-left: 25px;
+    /*removed list-stylte-type*/
 }
+
 /*Grouped the class selectors together */
 .header section ul li {
     display: inline-block;
@@ -192,6 +197,7 @@ p {
     text-align: center;
 }
 
-.footer h2 {
+.footer h4 {
+    /* changed h2 to h4 to reflect changes made in index.html*/
     font-size: 20px;
 }
