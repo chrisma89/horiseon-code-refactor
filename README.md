@@ -26,7 +26,6 @@ The code can be viewed at github: https://github.com/chrisma89/horiseon-code-ref
 
 The refactored code can be used to study and track changes made from the starter code and visualise the effects of the same.
 
-The webpage screenshot can be accessed at ![]()
 
 ### Credits
 
