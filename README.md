@@ -19,12 +19,14 @@ The resources used to refactor includes
 
 ### Installation
 
-This webpage can be rendered by visiting the url :
-The code can be viewed at github:
+This webpage can be rendered by visiting the url : https://chrisma89.github.io/horiseon-code-refactor/
+The code can be viewed at github: https://github.com/chrisma89/horiseon-code-refactor
 
 ### Usage
 
 The refactored code can be used to study and track changes made from the starter code and visualise the effects of the same.
+
+The webpage screenshot can be accessed at ![webpagescreenshot](assets/images/screenshot.jpg)
 
 ### Credits
 
