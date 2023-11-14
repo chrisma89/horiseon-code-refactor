@@ -51,7 +51,7 @@ li {
 }
 
 .mainimage {
-    /*moved the background image url to index.html and added alt attribute to it. Changes the class name*/
+    /*moved the background image url to index.html and added alt attribute to it. Changed the class name*/
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
