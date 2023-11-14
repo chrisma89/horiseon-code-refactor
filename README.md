@@ -6,7 +6,7 @@ The horiseon webpage has been code refactored to meet the industry standards for
 
 The modifications that have been implemented in this code refactor includes, but not limited to, using semantic html tags whenever possible, maintaining hierarchy of header tags throughout the index.html file, correction of 'img' tag and inclusion of 'alt' attributes, title added to head section, comments added to improve file readability, and changes in the css file to correspond to changes to the html file.
 
-Refactoring improved my undersatnding of how each element in the html document works and how the styling affects the display of the webpage. It cemented the basic concepts and enabled me to further research into how to follow best practice for writing code.
+Refactoring improved my understanding of how each element in the html document works and how the styling affects the display of the webpage. It cemented the basic concepts and enabled me to further research into how to follow best practice for writing code.
 
 The git commands have been used for version control throughout the creation of this repository.
 
